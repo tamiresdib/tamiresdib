@@ -1,11 +1,7 @@
 ### Olá! Eu sou a Tamires ✌️
 
 
-- 🔭  Atualmente estou em busca do meu primeiro Estágio na área da Tecnologia 
-- 🌱 Estudando HTML e CSS
-- ⚡ Cursando Análise e Desenvolvimento de Sistemas
-- 😄 pronouns: ela/dela
-
+Desenvolvedora de Software Angular
 <div align="center">
   <a href="https://github.com/tamiresdib">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tamiresdib&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
