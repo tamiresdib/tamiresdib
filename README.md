@@ -10,8 +10,12 @@ Desenvolvedora de Software Angular
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Tamires-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tamires-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Logo JavaScript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
+    <img align="center" alt="Logo Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+    <img align="center" alt="Logo Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+      
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/75e09678346c9ce4b9e44aa772682fce.gif" align="right" height="150" style="border-radius:50px; alt="https://picasion.com//></a><br /><a href="https://picasion.com/"</a>
  
   </div>
