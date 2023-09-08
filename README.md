@@ -16,7 +16,8 @@ Desenvolvedora de Software Angular
     <img align="center" alt="Logo Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
     <img align="center" alt="Logo Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
       
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/75e09678346c9ce4b9e44aa772682fce.gif" align="right" height="150" style="border-radius:50px; alt="https://picasion.com//></a><br /><a href="https://picasion.com/"</a>
+ <a href="https://picasion.com/">
+ <img src="https://i.picasion.com/pic92/75e09678346c9ce4b9e44aa772682fce.gif" align="right" height="150" style="border-radius:50px; alt="https://picasion.com//></a><br><a href="https://picasion.com/"</a>
  
   </div>
   
