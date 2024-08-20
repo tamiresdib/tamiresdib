@@ -3,9 +3,9 @@
 
 💻 Desenvolvedora de Software Angular
 <br>
-📓 Graduanda no penúltimo semestre de Análise e Desenvolvimento de Sistemas
+📓 Graduada em Análise e Desenvolvimento de Sistemas
 <br>
-❤️ Estagiária front-end no Banco Santander 
+❤️ Desenvolvedora Junior front-end no Banco Santander 
 <div align="center">
   <a href="https://github.com/tamiresdib">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tamiresdib&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
