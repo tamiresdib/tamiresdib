@@ -19,7 +19,8 @@
     <img align="center" alt="Logo JavaScript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
     <img align="center" alt="Logo Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
     <img align="center" alt="Logo Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
-    <img align="center" alt="Logo Git" height="40" width="40" src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img align="center" alt="Logo Git" height="50" width="50" src="https://img.icons8.com/color/512/git.png"
+">
       
  <a href="https://picasion.com/">
  <img src="https://i.picasion.com/pic92/75e09678346c9ce4b9e44aa772682fce.gif" align="right" height="150" style="border-radius:50px; alt="https://picasion.com//></a><br><a href="https://picasion.com/"</a>
