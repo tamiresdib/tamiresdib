@@ -1,11 +1,22 @@
-### Olá! Eu sou a Tamires ✌️
+### Hello! I'm Tamires Dib ✌️
 
+💻 I'm frontend developer at Santander
+<br>
+🏡 Brazilian, based in São Paulo, SP.
+<br>
+📓 Graduated in Systems Analysis and Development
+<br>
+📱 I'm a digital influencer on social media, where I share tips on technology and routine
+<br>
+📫 How to reach me tamiresdib6@gmail.com.
 
-💻 Desenvolvedora de Software Angular
-<br>
-📓 Graduada em Análise e Desenvolvimento de Sistemas
-<br>
-❤️ Desenvolvedora Junior front-end no Banco Santander 
+## 🔎 You can find me on
+
+- 🔗 [Linkedin](tamiresdib6@gmail.com)
+- 🔗[Instagram](https://www.instagram.com/dib.codes/)
+
+## 📊 Static from my Github
+
 <div align="center">
   <a href="https://github.com/tamiresdib">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tamiresdib&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
