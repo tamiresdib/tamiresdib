@@ -15,7 +15,7 @@
 - 🔗 [Linkedin](tamiresdib6@gmail.com)
 - 🔗[Instagram](https://www.instagram.com/dib.codes/)
 
-## 📊 Static from my Github
+<!--## 📊 Static from my Github
 
 <div align="center">
   <a href="https://github.com/tamiresdib">
@@ -36,7 +36,7 @@
  <a href="https://picasion.com/">
  <img src="https://i.picasion.com/pic92/75e09678346c9ce4b9e44aa772682fce.gif" align="right" height="150" style="border-radius:50px; alt="https://picasion.com//></a><br><a href="https://picasion.com/"</a>
  
-  </div>
+  </div> <-->
   
   ##
   
